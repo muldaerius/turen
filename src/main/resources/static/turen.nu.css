@@ -54,7 +54,7 @@ body {
 }
 
 .jumbotron{
-	background-image: url(fjallcykel.JPG);
+	background-image: url(/pictures/fjallcykel.JPG);
 	background-repeat: no-repeat;
 	background-size: cover;
 }
