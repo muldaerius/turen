@@ -1,0 +1,65 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	height: 100vh;
+	min-height: 100vh;
+	margin: 0;
+}
+
+.nopadding {
+   padding: 0 !important;
+   margin: 0 !important;
+}
+
+.left {
+	height: 100vh;
+	min-height: 100vh;	
+	
+}
+
+.right {
+	z-index: -2;
+	height: 100vh;
+	min-height: 100vh;	
+}
+
+.middle {
+	background-color:#FFFFFF;
+	width: auto;
+	z-index: 0;
+	margin-left: 0;
+	margin-right: 0;
+	margin-top: 0;
+	margin-bottom: 0;
+	height: 100vh;
+	min-height: 100vh;	
+}
+
+.kontobar {
+	height: 50px;
+	width: 50px;
+	display: relative;
+	float: right;
+	z-index: 6;
+}
+
+.navbar-nav{
+	height: 50px;
+}
+
+.btn-default:hover { 
+    background-color: #5989c6;
+	color: #ffffff;
+}
+
+.jumbotron{
+	background-image: url(fjallcykel.JPG);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+	
+.fieldset {
+	background-color: #ffffff;      
+}
+
